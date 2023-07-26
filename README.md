@@ -1,9 +1,11 @@
 ### Ola👋 eu sou o Nicolas de Oliveira Bartolozzi.
 
 🎓 O que estudo? 
+
 Estudo Ciências da Computação e estou sempre em busca de novos desafios e aprendizados no vasto mundo da tecnologia.
 
 💻 Quais linguagens de programação conheço?
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nicolas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
