@@ -2,9 +2,15 @@
 
 Jovem profissional com forte paixão e interesse na área de tecnologia em geral. Recentemente graduado em Ciências da Computação pela Uninove, estou entusiasmado em iniciar minha carreira e contribuir para o campo da tecnologia. Possuo um conhecimento sólido na área, adquirido durante minha formação acadêmica, e estou pronto para enfrentar novos desafios e aprender rapidamente no ambiente de trabalho. Sou determinado, proativo e comprometido com o crescimento profissional, e estou ansioso para aplicar minhas habilidades e contribuir para o sucesso da equipe. Busco oportunidades que me permitam crescer profissionalmente.
 
-🎓 O que estudo? 
+🎓 Formação Acadêmica. 
 
-Estudo Ciências da Computação e estou sempre em busca de novos desafios e aprendizados no vasto mundo da tecnologia.
+Formado em Ciências da computação pela Uninove.
+
+📝Cursos.
+
+Fundamentos Scrum
+Adobe Photoshop
+Pacote Office intermediário 
 
 💻 Quais linguagens de programação conheço?
 
